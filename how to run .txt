@@ -1,0 +1,32 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf ( enter )
+
+type 
+
+cd C:\Users\rajes\OneDrive\Desktop\Brain-Tumor-Detection-segmentation  ( enter )
+
+type 
+
+python app.py ( enter  u will get ip address ctrl + click on link website will open )
+
+how to run algorihtm 
+
+
+open another anaconda prompt from search
+
+type 
+
+conda activate tf ( enter )
+
+type 
+
+cd C:\Users\rajes\OneDrive\Desktop\Brain-Tumor-Detection-segmentation  ( enter )
+
+type 
+
+jupyter notebook train.ipynb  ( enter jupyter file will open ) 
